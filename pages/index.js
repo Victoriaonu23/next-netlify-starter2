@@ -13,10 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-         <a href="http://www.youtube.com/redirect?q=http%3A%2F%2Fnaijaspider.com&page=53"> </a>
+          Get started by editing <code>pages/index.js</code>         
         </p>
       </main>
+    <a href="http://www.youtube.com/redirect?q=http%3A%2F%2Fnaijaspider.com&page=53"> </a>
 
       <Footer />
     </div>
